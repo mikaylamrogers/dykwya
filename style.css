@@ -1,9 +1,10 @@
 body {
+  box-sizing: border-box;
   background-image: url('eyes.gif');
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 img {
