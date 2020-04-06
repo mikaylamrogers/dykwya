@@ -20,6 +20,4 @@ var randomIndex = answerArray[Math.floor( Math.random() * answerArray.length)];
 fortuneButton.addEventListener("click", tellFortune);
 
 function tellFortune() {
-  
-
 }
